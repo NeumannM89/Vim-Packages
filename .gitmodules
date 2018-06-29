@@ -1,0 +1,39 @@
+[submodule "vim-airline"]
+	path = start/vim-airline
+	url = git@github.com:vim-airline/vim-airline.git
+[submodule "start/auto-pairs"]
+	path = start/auto-pairs
+	url = git@github.com:jiangmiao/auto-pairs.git
+[submodule "start/vim-closetag"]
+	path = start/vim-closetag
+	url = git@github.com:alvan/vim-closetag.git
+[submodule "start/Molokai"]
+	path = start/Molokai
+	url = git@github.com:NeumannM89/Molokai.git
+[submodule "start/supertab"]
+	path = start/supertab
+	url = git@github.com:ervandew/supertab.git
+[submodule "start/syntastic"]
+	path = start/syntastic
+	url = git@github.com:vim-syntastic/syntastic.git
+[submodule "start/tcomment_vim"]
+	path = start/tcomment_vim
+	url = git@github.com:tomtom/tcomment_vim.git
+[submodule "start/vim-airline-themes"]
+	path = start/vim-airline-themes
+	url = git@github.com:vim-airline/vim-airline-themes.git
+[submodule "start/vim-fugitive"]
+	path = start/vim-fugitive
+	url = git@github.com:tpope/vim-fugitive.git
+[submodule "start/vim-latex"]
+	path = start/vim-latex
+	url = git@github.com:vim-latex/vim-latex.git
+[submodule "start/vim-repeat"]
+	path = start/vim-repeat
+	url = git@github.com:tpope/vim-repeat.git
+[submodule "start/vim-surround"]
+	path = start/vim-surround
+	url = git@github.com:tpope/vim-surround.git
+[submodule "start/vim-tmux-navigator"]
+	path = start/vim-tmux-navigator
+	url = git@github.com:christoomey/vim-tmux-navigator.git
