@@ -14,7 +14,7 @@
 	path = start/supertab
 	url = git@github.com:ervandew/supertab.git
 [submodule "start/syntastic"]
-	path = start/syntastic
+	path = opt/syntastic
 	url = git@github.com:vim-syntastic/syntastic.git
 [submodule "start/tcomment_vim"]
 	path = start/tcomment_vim
